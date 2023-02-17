@@ -3,7 +3,7 @@ below variables and update them with stuff about you. Yeah... I know... the clas
 everyone dreads at the start of the semester. Sorry, I just needed a filler for you guys to edit. */
 
 /*Un-comment this and fill in the info
-const yourName : String = "Your name";
+const yourName : String = "Gia Diaz";
 let yourPronouns : String = "Pro/Nouns";
 const yourMajor : String = "Your major";
 let classification : String = "freshman/soph/junior/senior/supersenior";
